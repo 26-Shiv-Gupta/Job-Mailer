@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "csv": "^6.3.11",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.10.0",
+    "xlsx": "^0.18.5"
+  }
+}

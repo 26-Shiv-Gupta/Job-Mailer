@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Environment variables (Gmail credentials)
+.env
+.env.*
+!.env.example
+
+# Contact data (recruiter personal info)
+contacts.xlsx
+*.xlsx
+*.csv
+!contacts.example.xlsx
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
