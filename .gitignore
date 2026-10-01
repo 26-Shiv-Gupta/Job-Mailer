@@ -7,7 +7,6 @@ node_modules/
 !.env.example
 
 # Contact data (recruiter personal info)
-contacts.xlsx
 *.xlsx
 *.csv
 !contacts.example.xlsx
